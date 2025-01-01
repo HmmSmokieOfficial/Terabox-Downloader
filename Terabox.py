@@ -22,7 +22,7 @@ BOT_TOKEN = "8156780217:AAEg_Tt1fYQF9SQlLHE5annBrvAhBlNTb6I"
 CHANNEL_USERNAME = "@BotCodeVerse"
 ADMIN_IDS = [1949883614]
 MONGO_URL = "mongodb+srv://Terabox:SmokieOfficial@cluster0.qmr4z.mongodb.net/Terabox?retryWrites=true&w=majority&appName=Cluster0"
-LOG_CHANNEL = -1001806351030  # Replace with your private channel ID
+LOG_CHANNEL = -1001806351030  
 
 # URLs and API Configuration
 WEBAPP_URL = "https://teraboxdownloader.top/video.php"
