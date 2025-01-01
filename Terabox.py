@@ -19,7 +19,7 @@ logger = logging.getLogger(__name__)
 API_ID = "26490815"
 API_HASH = "b99d8504b8812f9ec395ec61c010ac32"
 BOT_TOKEN = "8156780217:AAEg_Tt1fYQF9SQlLHE5annBrvAhBlNTb6I"
-CHANNEL_USERNAME = "@SmokieOfficial"
+CHANNEL_USERNAME = "@BotCodeVerse"
 ADMIN_IDS = [1949883614]
 MONGO_URL = "mongodb+srv://Terabox:SmokieOfficial@cluster0.qmr4z.mongodb.net/Terabox?retryWrites=true&w=majority&appName=Cluster0"
 LOG_CHANNEL = -1001806351030  # Replace with your private channel ID
